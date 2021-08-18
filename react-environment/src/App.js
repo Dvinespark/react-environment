@@ -1,9 +1,14 @@
 import './App.css';
+import TodoList from './todos/TodoList';
 
-function App() {
+const App = () => {
+  const todos = [{ text: "hello world" }, {text: "wowo"}]
   return (
     <div className="App">
-      <h1>hello world</h1>
+      <h1>MyTodos</h1>
+      <hr />
+      <TodoList todos={ todos }/>
+
     </div>
   );
 }

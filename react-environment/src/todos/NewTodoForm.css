@@ -1,0 +1,13 @@
+.new-todo-form {
+	text-align: center;
+}
+.new-todo-input {
+	width: 80%;
+}
+.new-todo-button {
+	background-color: green;
+}
+.new-todo-button:hover {
+	background-color: cadetblue;
+	color: white;
+}

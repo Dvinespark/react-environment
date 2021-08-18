@@ -1,0 +1,17 @@
+.todo-item-container {
+	text-align: center;
+}
+.buttons-container {
+	margin-right: 5px;
+	padding-left: 5px;
+}
+
+.remove-button {
+	margin-left: 5px;
+	background-color: red;
+	color: white;
+}
+.completed-button {
+	background-color: green;
+	color: white;
+}
