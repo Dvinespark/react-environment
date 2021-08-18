@@ -1,4 +1,4 @@
-This repo will consist of all the react basic components for clear understanding about the React.
+This repo will consist of all the react basics for clear understanding about the React.
 - [] React
 - [] Redux
 - [] Network Call
