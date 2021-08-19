@@ -1,0 +1,18 @@
+.counter-form {
+	margin: 5px;
+}
+.increment {
+	margin-right:5px;
+}
+button:hover{
+	background-color: cadetblue;
+	color:white;
+}
+h1 {
+	color: cadetblue;
+}
+
+h3 span {
+	color:tomato;
+	font-weight: bold;
+}
